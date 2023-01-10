@@ -3,7 +3,6 @@
     <div class="card">
       <div class="card-body">
         <h4 class="page-title"> <i class="mdi mdi-power-plug title_icon"></i> <?php echo get_phrase('addon_manager'); ?>
-          <a href="https://1.envato.market/B32Ry" target="_blank" class="btn btn-outline-primary btn-rounded alignToTitle"> <i class="mdi mdi-cart"></i> <?php echo get_phrase('buy_new_addon'); ?></a>
           <a href="<?php echo site_url('admin/addon/add'); ?>" class="btn btn-outline-primary btn-rounded alignToTitle mr-1"><i class="mdi mdi-download"></i> <?php echo get_phrase('install_addon'); ?></a>
         </h4>
       </div> <!-- end card body-->

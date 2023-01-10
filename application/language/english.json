@@ -721,5 +721,13 @@
     "suspended_request": "Suspended request",
     "offline_payment_settings": "Offline payment settings",
     "no_result_found": "No result found",
-    "language_deleted_successfully": "Language deleted successfully"
+    "language_deleted_successfully": "Language deleted successfully",
+    "select_lesson_type": "Select lesson type",
+    "secured": "Secured",
+    "document_file": "Document file",
+    "text": "Text",
+    "image_file": "Image file",
+    "iframe_embed": "Iframe embed",
+    "please_select_a_course": "Please select a course",
+    "logo_updated": "Logo updated"
 }
