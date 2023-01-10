@@ -701,5 +701,10 @@
     "back_to_addon_list": "Back to addon list",
     "upload_addon_file": "Upload addon file",
     "zip_file": "Zip file",
-    "back": "Back"
+    "back": "Back",
+    "addon_installed_successfully": "Addon installed successfully",
+    "certificate_settings": "Certificate settings",
+    "addon_update": "Addon update",
+    "deactive": "Deactive",
+    "about_this_addon": "About this addon"
 }
