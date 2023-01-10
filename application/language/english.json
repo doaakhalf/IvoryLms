@@ -714,5 +714,10 @@
     "and": "And",
     "represents_student_name_and_course_title_on_the_certificate": "Represents student name and course title on the certificate",
     "certificate_template": "Certificate template",
-    "make_sure_that_template_size_is_less_than": "Make sure that template size is less than"
+    "make_sure_that_template_size_is_less_than": "Make sure that template size is less than",
+    "offline_payment": "Offline payment",
+    "pending_request": "Pending request",
+    "accepted_request": "Accepted request",
+    "suspended_request": "Suspended request",
+    "offline_payment_settings": "Offline payment settings"
 }
