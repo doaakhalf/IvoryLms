@@ -709,5 +709,10 @@
     "about_this_addon": "About this addon",
     "add_update": "Add update",
     "ge_to_addon_list": "Ge to addon list",
-    "update_addon": "Update addon"
+    "update_addon": "Update addon",
+    "certificate_template_text": "Certificate template text",
+    "and": "And",
+    "represents_student_name_and_course_title_on_the_certificate": "Represents student name and course title on the certificate",
+    "certificate_template": "Certificate template",
+    "make_sure_that_template_size_is_less_than": "Make sure that template size is less than"
 }
