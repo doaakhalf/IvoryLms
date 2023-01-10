@@ -720,5 +720,6 @@
     "accepted_request": "Accepted request",
     "suspended_request": "Suspended request",
     "offline_payment_settings": "Offline payment settings",
-    "no_result_found": "No result found"
+    "no_result_found": "No result found",
+    "language_deleted_successfully": "Language deleted successfully"
 }
