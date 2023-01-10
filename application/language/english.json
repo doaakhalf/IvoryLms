@@ -719,5 +719,6 @@
     "pending_request": "Pending request",
     "accepted_request": "Accepted request",
     "suspended_request": "Suspended request",
-    "offline_payment_settings": "Offline payment settings"
+    "offline_payment_settings": "Offline payment settings",
+    "no_result_found": "No result found"
 }
