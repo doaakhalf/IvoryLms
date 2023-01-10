@@ -706,5 +706,8 @@
     "certificate_settings": "Certificate settings",
     "addon_update": "Addon update",
     "deactive": "Deactive",
-    "about_this_addon": "About this addon"
+    "about_this_addon": "About this addon",
+    "add_update": "Add update",
+    "ge_to_addon_list": "Ge to addon list",
+    "update_addon": "Update addon"
 }
