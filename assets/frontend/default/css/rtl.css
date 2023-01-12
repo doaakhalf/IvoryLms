@@ -1,0 +1,65 @@
+* {
+    direction: rtl
+  }
+  
+  .mr-100 {
+    margin-right: 100%
+  }
+  
+  .w-97 {
+    width: 97%
+  }
+  
+  .ml-40 {
+    margin-left: -40px
+  }
+  
+  .mr-85-persent {
+    margin-right: 85%
+  }
+  
+  .display-block {
+    display: block
+  }
+  
+  .min-h-200 {
+    min-height: 200px
+  }
+  
+  .c-pointer {
+    cursor: pointer
+  }
+  
+  .ml-85-persent {
+    margin-left: 85%
+  }
+  
+  .w-70 {
+    width: 70%
+  }
+  
+  .ml-3,
+  .mx-3 {
+    margin-right: 0 !important
+  }
+  
+  a {
+    text-decoration: none !important
+  }
+  
+  .w-55 {
+    width: 55%
+  }
+  
+  .toast-success {
+    background-color: #30b72ddb !important
+  }
+  
+  .toast-error {
+    background-color: #dc3545db !important
+  }
+  
+  .owl-stage-outer {
+    direction: ltr
+  }
+  

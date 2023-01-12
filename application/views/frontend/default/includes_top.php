@@ -13,6 +13,8 @@
 <link rel="stylesheet" href="<?php echo base_url() . 'assets/frontend/default/css/bootstrap.min.css'; ?>">
 
 <link rel="stylesheet" href="<?php echo base_url() . 'assets/frontend/default/css/main.css'; ?>">
+
+
 <link rel="stylesheet" href="<?php echo base_url() . 'assets/frontend/default/css/responsive.css'; ?>">
 <link rel="stylesheet" href="<?php echo base_url() . 'assets/frontend/default/css/custom.css'; ?>">
 <link rel="stylesheet" href="<?php echo base_url() . 'assets/frontend/default/css/tagify.css'; ?>">
